@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mocha Late",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "price": "$69.99",
+      "image_url": "https://res.cloudinary.com/ds73yosji/image/upload/v1667745068/Products/black_kbs8am.png"
+    },
+    {
+      "id": 2,
+      "name": "Iced Coffee",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "price": "$50.00",
+      "image_url": "https://res.cloudinary.com/ds73yosji/image/upload/v1667745068/Products/brown_md2g9k.png"
+    },
+    {
+      "id": 3,
+      "name": "Caramel Frappe",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "price": "$30.00",
+      "image_url": "https://res.cloudinary.com/ds73yosji/image/upload/v1667745068/Products/silver_llziwd.png"
+    },
+    {
+      "id": 4,
+      "name": "Mocha Late",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "price": "$50.00",
+      "image_url": "https://res.cloudinary.com/ds73yosji/image/upload/v1667745068/Products/dark-brown_w3mgmg.png"
+    },
+    {
+      "id": 5,
+      "name": "Double Espresso",
+      "description": "Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species.",
+      "price": "$10.00",
+      "image_url": "https://res.cloudinary.com/ds73yosji/image/upload/v1667745068/Products/green_tf4igz.png"
+    }
+  ]
+}
